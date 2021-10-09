@@ -352,24 +352,6 @@ int main(){
     free(matriz);
     free(vetor);
 
-    fclose(mino); 
-
-
-
-
-
-// posição no vetor, 1 para sim, 0 para não
-//  0	monstroesquerda
-//  1	monstrodireita 
-//  2	monstrobaixo
-//  3	monstrocima
-//  4	esquerda
-//  5	direita 
-//  6	baixo 
-//  7	cima
-//  8	a
-//  9	b
-// 10	c
-// 11	d    
+    fclose(mino);   
   return 0;
 }
